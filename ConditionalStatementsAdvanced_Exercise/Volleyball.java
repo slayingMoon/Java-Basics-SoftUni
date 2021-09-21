@@ -12,6 +12,7 @@ public class Volleyball {
         //5. otdelno prez visokosnite godini igrae s 15% poveche voleibol ot normalnoto
         //---->priemame, che godinata ima 48 uikenda podhodqshti za voleibol
         //---->da se zakrugli rezultata nadolu do nai-blizkoto chislo
+        //
         String year = scanner.nextLine();
         int yearlyHolidays = Integer.parseInt(scanner.nextLine());
         int weekendsHomeTown = Integer.parseInt(scanner.nextLine());
